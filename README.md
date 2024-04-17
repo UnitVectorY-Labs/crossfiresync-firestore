@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # crossfiresync-firestore
 
 Example implementation of [crossfiresync](https://github.com/UnitVectorY-Labs/crossfiresync) Firestore publisher

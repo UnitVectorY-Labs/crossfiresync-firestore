@@ -1,0 +1,8 @@
+# Files not deployed
+
+.gcloudignore
+.git
+.gitignore
+target
+LICENSE
+README.md

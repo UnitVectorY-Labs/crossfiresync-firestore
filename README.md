@@ -1,6 +1,8 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Active](https://img.shields.io/badge/Status-Active-green)](https://guide.unitvectorylabs.com/bestpractices/status/#active)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Abandoned](https://img.shields.io/badge/Status-Abandoned-red)](https://guide.unitvectorylabs.com/bestpractices/status/#abandoned)
 
 # crossfiresync-firestore
+
+This project is archived. Development and maintenance have stopped, and no replacement is designated. Existing deployments and published artifacts are retained; archiving this source repository does not retire deployed services.
 
 Reference implementation of a [crossfiresync](https://github.com/UnitVectorY-Labs/crossfiresync) Firestore publisher, featuring Java code and deployment scripts for Cloud Functions.
 
